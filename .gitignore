@@ -2,7 +2,6 @@ dog_app-Copy1.ipynb
 .gitignore
 __*
 dogImages*
-images*
 haar*
 lfw*
 *submission
