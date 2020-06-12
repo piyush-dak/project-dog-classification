@@ -1,8 +1,8 @@
 dog_app-Copy1.ipynb
+.*
 .gitignore
 __*
 dogImages*
-haar*
 lfw*
 *submission
 junk*
