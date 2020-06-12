@@ -48,4 +48,4 @@ If your code is taking too long to run, you will need to either reduce the compl
 
 #### Amazon Web Services
 
-You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money, but enrolled students should see a coupon code in their student `resources`.)
+You can use Amazon Web Services to launch an EC2 GPU instance. 
